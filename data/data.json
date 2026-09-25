@@ -9,6 +9,18 @@
     "id": 2,
     "title": "The Pragmatic Programmer",
     "author": "Andrew Hunt",
+    "status": "done"
+  },
+  {
+    "id": 3,
+    "title": "Night tails",
+    "author": "Leewen",
     "status": "to-read"
+  },
+  {
+    "id": 4,
+    "title": "Morning tails",
+    "author": "Edge Hoppins",
+    "status": "reading"
   }
 ]
